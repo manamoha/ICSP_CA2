@@ -1,0 +1,8 @@
+﻿  final 4.c
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(756,37): warning C4047: '==': 'int' differs in levels of indirection from 'int [7]'
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(796,37): warning C4047: '==': 'int' differs in levels of indirection from 'int [7]'
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(1320,29): warning C4047: 'function': 'Menu **' differs in levels of indirection from 'Menu **[7]'
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(1320,25): warning C4024: 'initialize_menu_arr': different types for formal and actual parameter 1
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(1324,46): warning C4047: 'function': 'Menu **' differs in levels of indirection from 'Menu **[7]'
+D:\university\ICSP\projects\project 2 (part 2)\final 4\final 4.c(1324,42): warning C4024: 'run': different types for formal and actual parameter 5
+  final 4.vcxproj -> D:\university\ICSP\projects\project 2 (part 2)\final 4\Debug\final 4.exe
